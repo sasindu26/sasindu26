@@ -2,19 +2,19 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10EC55&width=435&lines=%F0%9F%91%8B+Hi!+I'm+Sasindu;%F0%9F%8C%9F+What+Do+You+Want+to+Code?;%F0%9F%92%A1+Undergraduate+student;%F0%9F%9A%80+Let's+connect+and+collaborate!;%F0%9F%93%AB+  +  +077+55+24+461" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10EC55&width=435&lines=%F0%9F%91%8B+Hi!+I'm+Sasindu;%F0%9F%8C%9F+What+Do+You+Want+to+Code?;%F0%9F%92%A1+Undergraduate+student;%F0%9F%9A%80+Let's+connect+and+collaborate!;%F0%9F%93%AB+  +  +077+59+71+198" alt="Typing SVG" />
 </a>
 </p>
 <br>
 
 <p align="center" > <img src="https://media.tenor.com/pmZDKGIsU5MAAAAi/pepe-matrix-pepe.gif" width="150" height="200"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sithumsankajith&label=Profile%20views&color=10EC55&style=flat" alt="Sithumsankajith" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sithumsankajith&label=Profile%20views&color=10EC55&style=flat" alt="sasindu26" /> </p>
 
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sithum-sankajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sithum Sankajith" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sasindu-abhayarathna-104a492b4?fromQR=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sasindu Nilupul" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cr4zynym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cr4zynym" height="30" width="40" /></a>
 <a href="https://x.com/SSankajith?t=k6Uoss6ynwDP5Awre7n0HQ&s=09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sithum" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sithum.sankajith.1?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithum" height="30" width="40" /></a>
