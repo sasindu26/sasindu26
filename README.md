@@ -66,71 +66,25 @@ spec:
 </p>
 <br>
 
+<h2 align="center">⚒️ Languages and Tools</h2>
+
 <p align="center">
-
+  <img src="https://skillicons.dev/icons?i=react" width="48" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+  <img src="https://skillicons.dev/icons?i=php" width="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+  <img src="https://skillicons.dev/icons?i=wordpress" width="48" />
+  <img src="https://skillicons.dev/icons?i=cs" width="48" />
 </p>
-p align="center">
-
-</p>
-
-<h2>:hammer_and_wrench: Languages and Tools :</h2>
-
-<p align="center"> <table align="center"> <tr> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact" width="48" height="48" alt="React" />
-
-
-React </td> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" width="48" height="48" alt="Python" />
-
-
-Python </td> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs" width="48" height="48" alt="JavaScript" />
-
-
-JavaScript </td> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql" width="48" height="48" alt="MySQL" />
-
-
-MySQL </td> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dts" width="48" height="48" alt="TypeScript" />
-
-
-TypeScript </td> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnextjs" width="48" height="48" alt="Next.js" />
-
-
-Next.js </td> </tr> <tr> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgithub" width="48" height="48" alt="GitHub" />
-
-
-GitHub </td> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit" width="48" height="48" alt="Git" />
-
-
-Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-
-
-HTML5 </td> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcss" width="48" height="48" alt="CSS" />
-
-
-CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-
-
-Bootstrap </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-
-
-Tailwind </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-
-
-MongoDB </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /> 
-
-
-Node.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-
-
-PHP </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-
-
-VS Code </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /> 
-
-
-WordPress </td> <td align="center" width="96"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcs" width="48" height="48" alt="C#" />
-
-
-C# </td> </tr> </table> </p>
-
-<h2>🏆 Badges and Rewards </h2>
-
-<p align="center"> </p>
