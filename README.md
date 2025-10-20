@@ -43,32 +43,36 @@ spec:
       -: "Neo4j"
 
 ```
+
+### 📊 GitHub Analytics
+
 ![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true&cache_seconds=86400)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark&cache_seconds=86400)
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark&cache_seconds=86400)
 
+---
 
-<h2 align="center">⚒️ Languages and Tools</h2>
+<h2 align="center">⚒️ Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="48" />
-  <img src="https://skillicons.dev/icons?i=python" width="48" />
-  <img src="https://skillicons.dev/icons?i=js" width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-  <img src="https://skillicons.dev/icons?i=ts" width="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" />
-  <img src="https://skillicons.dev/icons?i=git" width="48" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
-  <img src="https://skillicons.dev/icons?i=php" width="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" />
-  <img src="https://skillicons.dev/icons?i=wordpress" width="48" />
-  <img src="https://skillicons.dev/icons?i=cs" width="48" />
+  <img src="https://skillicons.dev/icons?i=react" width="48"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+  <img src="https://skillicons.dev/icons?i=php" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="48"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="48"/>
 </p>
