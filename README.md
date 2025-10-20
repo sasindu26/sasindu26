@@ -49,32 +49,9 @@ spec:
 ![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark&cache_seconds=7200)
 
 ---
-
 <h2 align="center">⚒️ Languages & Tools</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="48" />
-  <img src="https://skillicons.dev/icons?i=python" width="48" />
-  <img src="https://skillicons.dev/icons?i=js" width="48" />
-  <img src="https://skillicons.dev/icons?i=ts" width="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-  <img src="https://skillicons.dev/icons?i=php" width="48" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
-  <img src="https://skillicons.dev/icons?i=git" width="48" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" />
-  <img src="https://skillicons.dev/icons?i=wordpress" width="48" />
-  <img src="https://skillicons.dev/icons?i=cs" width="48" />
-</p>
-
----
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=react" width="48" /> <img src="https://skillicons.dev/icons?i=python" width="48" /> <img src="https://skillicons.dev/icons?i=js" width="48" /> <img src="https://skillicons.dev/icons?i=ts" width="48" /> <img src="https://skillicons.dev/icons?i=nextjs" width="48" /> <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> <img src="https://skillicons.dev/icons?i=mysql" width="48" /> <img src="https://skillicons.dev/icons?i=php" width="48" /> <img src="https://skillicons.dev/icons?i=html" width="48" /> <img src="https://skillicons.dev/icons?i=css" width="48" /> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> <img src="https://skillicons.dev/icons?i=git" width="48" /> <img src="https://skillicons.dev/icons?i=github" width="48" /> <img src="https://skillicons.dev/icons?i=vscode" width="48" /> <img src="https://skillicons.dev/icons?i=wordpress" width="48" /> <img src="https://skillicons.dev/icons?i=cs" width="48" /> </p>
 ### 📬 Connect With Me
 
 <p align="center">
