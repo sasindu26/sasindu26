@@ -8,6 +8,13 @@
 <br>
 <b><h2>🙇‍♀️ About me</h2>
 
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark)
+
+![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true)
+
 ```yaml
 apiVersion: "v23+"
 kind: "Student / Developer"
@@ -40,6 +47,8 @@ spec:
         -: "MYsql"
         -: "MongoDB"
         -: "Neo4j"
+(```) 
+
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark)
 
