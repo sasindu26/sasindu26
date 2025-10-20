@@ -1,16 +1,42 @@
-## Hi there 👋
+## <h1 align="center">Hi I am Sasindu Nilupul 👋</h1>
 
-<!--
-**sasindu26/sasindu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
 
-Here are some ideas to get you started:
+<br>
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+<b><h2>🙇‍♀️ About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+apiVersion: "v23+"
+kind: "Student / Developer"
+metadata:
+  name: "Sasindu Nilupul"
+spec:
+  locations:
+    - 
+      type:  "LinkedIn"
+      where: "www.linkedin.com/in/sasindu-abhayarathna-104a492b4"
+      
+    - 
+      type:  "mail"
+      where: "sasindunilupul2@gmail.com"
+
+  Can do: 
+      type: "Lang"
+        -: "python"
+        -: "C#"
+        -: "C"
+        -: "Java Script"
+     
+      type: "frameworks"
+        -: ".NET"
+        -: "React"
+        -: "NEXT.js"
+        -: "Flutter"
+
+      type: "backend"
+        -: "MYsql"
+        -: "MongoDB"
+        -: "Neo4j"
