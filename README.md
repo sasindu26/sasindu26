@@ -98,10 +98,7 @@ spec:
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
+   
     <!--<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
@@ -185,6 +182,10 @@ spec:
 	<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
+    </td>
+	 <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
     </td>
            <!--   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
