@@ -49,4 +49,24 @@ spec:
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark)
 ![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true)
 <br>
+<br>
 
+<p align="center">
+
+  <a href="#">
+    <img src="[https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true)" />
+  </a>
+
+  <br>
+
+  <a href="#">
+    <img src="[https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark](https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark)" />
+  </a>
+  
+  <br>
+
+  <a href="#">
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark)" />
+  </a>
+
+</p>
