@@ -7,11 +7,6 @@
 <a href="#"><img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)"></a>
 <br>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark)
-![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true)
-<br>
-
 <b><h2>🙇‍♀️ About me</h2>
 
 ```yaml
@@ -46,3 +41,12 @@ spec:
       -: "MYsql"
       -: "MongoDB"
       -: "Neo4j"
+
+```
+<br>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark)
+![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true)
+<br>
+
