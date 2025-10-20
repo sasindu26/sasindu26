@@ -98,7 +98,10 @@ spec:
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-   
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
     <!--<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
@@ -183,10 +186,6 @@ spec:
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-	 <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
            <!--   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
@@ -213,3 +212,17 @@ spec:
 <br>
 <br>
 </p>
+	<h2> Badges and Rewards </h2>
+	
+
+[![@akshi's Holopin board](https://holopin.me/akshi)](https://holopin.io/@akshi)
+
+<div align="center">
+<h3>Linkedin:</h3>
+
+<a href="https://www.linkedin.com/in/akshithasriyanjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akshitha Sriyanjith" height="30" width="40" /></a>
+
+</div>
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
