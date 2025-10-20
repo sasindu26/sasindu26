@@ -43,28 +43,12 @@ spec:
       -: "Neo4j"
 
 ```
-<br>
+![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true&cache_seconds=86400)
 
-<p align="center">
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark&cache_seconds=86400)
 
-  ![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true)
-  <br>
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark&cache_seconds=86400)
 
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu26&show_icons=true&theme=react-dark)
-  <br>
-
-  ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark)
-  
-</p>
-  
-  <br>
-
-  <a href="#">
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&layout=compact&theme=react-dark)" />
-  </a>
-
-</p>
-<br>
 
 <h2 align="center">⚒️ Languages and Tools</h2>
 
