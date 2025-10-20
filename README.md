@@ -69,6 +69,9 @@ spec:
 <p align="center">
 
 </p>
+p align="center">
+
+</p>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
@@ -117,7 +120,7 @@ MongoDB </td> <td align="center" width="96"> <img src="https://skillicons.dev/ic
 Node.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
 
 
-PHP </td> <td align="center" width="96"> <img src="httpsCody" src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+PHP </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 
 
 VS Code </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /> 
