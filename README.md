@@ -49,25 +49,25 @@ spec:
 <br>
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshisriyan&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasindu26&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
   <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Akshisriyan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Akshisriyan">
+ <img src="https://github-readme-stats.vercel.app/api?username=sasindu26&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Akshisriyan">
 <br>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshisriyan&&langs_count=30&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Akshisriyan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&&langs_count=30&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Akshisriyan">
   <br>
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Akshisriyan&theme=chartreuse-dark&hide_border=true" alt="Akshisriyan"> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sasindu26&theme=chartreuse-dark&hide_border=true" alt="Akshisriyan"> 
   <br>
     </p>	
 <br>
 
   <p align="center">
-	<a href="https://github.com/Akshisriyan"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/></a>
-	  <a href="https://www.linkedin.com/in/akshithasriyanjith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/sasindu26"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/></a>
+	  <a href="www.linkedin.com/in/sasindu-abhayarathna-104a492b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     	<a href="https://twitter.com/AkshithaSriyan2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter"/></a>
 	
 
