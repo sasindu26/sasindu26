@@ -63,15 +63,7 @@ spec:
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sasindu26&theme=chartreuse-dark&hide_border=true" alt="Akshisriyan"> 
   <br>
     </p>	
-<br>
 
-  <p align="center">
-	<a href="https://github.com/sasindu26"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/></a>
-	  <a href="www.linkedin.com/in/sasindu-abhayarathna-104a492b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    	<a href="https://twitter.com/AkshithaSriyan2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter"/></a>
-	
-
-<br>
 	  <br>
 <!--  <img src="https://camo.githubusercontent.com/ddd267ee999e5e96853b3992b1f0c193674f0569fec7b643ef9c8ee44c15a034/68747470733a2f2f677076632e6172747572696f2e6465762f52616a6974686c6168697275"> -->
 	  
