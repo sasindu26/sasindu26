@@ -222,10 +222,18 @@ spec:
 
 [![@akshi's Holopin board](https://holopin.me/akshi)](https://holopin.io/@akshi)
 
-<div align="center">
-<h3>Linkedin:</h3>
+<br>
 
-<a href="https://www.linkedin.com/in/akshithasriyanjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akshitha Sriyanjith" height="30" width="40" /></a>
+  <p align="center">
+	<a href="https://github.com/sasindu26"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/></a>
+	  <a href="www.linkedin.com/in/sasindu-abhayarathna-104a492b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    	<a href="https://www.instagram.com/sasindu_nilupul_?igsh=MWw4NjhxbG02aTZ6eA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+	
+
+<br>
+
+
 
 </div>
 <br>
