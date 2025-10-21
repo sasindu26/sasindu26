@@ -98,9 +98,9 @@ spec:
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
     <!--<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
@@ -115,8 +115,8 @@ spec:
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+         <img src="https://skillicons.dev/icons?i=dotnet" alt="figma icon" width="52" height="52" />
+      <br>.net
     </td>
     <!--<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -125,11 +125,12 @@ spec:
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+          <img src="https://skillicons.dev/icons?i=flutter" alt="figma icon" width="52" height="52" />
+      <br>Flutter
+     <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma icon" width="52" height="52" />
+    <br>Figma
+      <br>
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -185,6 +186,10 @@ spec:
 	<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
+    </td>
+	<td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=nextjs" alt="figma icon" width="52" height="52" />
+      <br>Nextjs
     </td>
            <!--   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
