@@ -216,7 +216,7 @@ spec:
 <br>
 <br>
 
-<h2 align="cente>Connect With Me:</h2>
+<h2 align="center">Connect With Me:</h2>
   <p align="center">
 	<a href="https://github.com/sasindu26"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/></a>
 	  <a href="www.linkedin.com/in/sasindu-abhayarathna-104a492b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
