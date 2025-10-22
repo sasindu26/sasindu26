@@ -207,7 +207,6 @@ spec:
 	<h2> Badges and Rewards </h2>
 	
 
-[![@akshi's Holopin board](https://holopin.me/akshi)](https://holopin.io/@akshi)
 
 <br>
 <br>
@@ -227,3 +226,5 @@ spec:
 <br>
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
+
+ 
