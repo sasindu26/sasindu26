@@ -55,10 +55,9 @@ spec:
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=sasindu26&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="sasindu26">
 <br>
-<br>
- 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&&langs_count=30&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="sasindu26">
+  <br>
   <br>
     </p>	
 	<br>
@@ -203,6 +202,18 @@ spec:
 </div>
 </p>
 	<h2> Badges and Rewards </h2>
+	
+<br>
+	<!--- trophy (start) -->
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sasindu26&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a><br>
+	
+<br>
+
+
+<h2>  </h2>
 	
 
 
