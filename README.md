@@ -58,8 +58,6 @@ spec:
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu26&&langs_count=30&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="sasindu26">
   <br>
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sasindu26&theme=chartreuse-dark&hide_border=true" alt="sasindu26"> 
     </p>	
 	<br>
 
